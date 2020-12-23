@@ -1,0 +1,23 @@
+.body-css{
+    margin: 50px auto;
+    text-align: center;
+}
+.item-buttons li{
+    display: inline-block;
+    margin: 0 10px 10px 10px;
+}
+button{
+    height:30px;
+    width: 60px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    background-color: aqua;
+    transition: 0.3s;
+}
+button:hover{
+    cursor: pointer;
+    background-color: cadetblue;
+    opacity: 0.7;
+
+}
